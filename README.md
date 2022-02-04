@@ -1,4 +1,4 @@
-# Shaowen Zhu' Website
-Shaowen's personal website.\
+# Shaowen' Website
+Shaowen Zhu's personal website.\
 Available at [https://shaowen1994.github.io/](https://shaowen1994.github.io/).\
 Based on [HTML5](https://html5up.net/).
